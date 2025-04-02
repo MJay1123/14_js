@@ -20,7 +20,7 @@ function outer() {
 }
 
 outer();
-console.log(z);
+console.log(z);   // z is not defined
 /*
   스코프 체인
 

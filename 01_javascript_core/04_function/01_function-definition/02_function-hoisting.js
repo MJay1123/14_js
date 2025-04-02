@@ -9,7 +9,7 @@ console.log(hi('피카츄'));
 
 var hi = function(name) {
     return `${name} 안녕!~`;
-}
+};
 
 /*
   함수 선언문은 런타임 이전 자바스크립트 엔진에 의해 먼저 해석된다.(컴파일적인 요소)
